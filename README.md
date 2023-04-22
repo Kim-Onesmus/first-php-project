@@ -1,2 +1,2 @@
 # first-php-project
-First PHP
+First PHP project
